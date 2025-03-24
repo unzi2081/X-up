@@ -1,0 +1,10 @@
+C:\Users\unzi2\source\repos\X-UP\bin\Debug\X-UP.exe.config
+C:\Users\unzi2\source\repos\X-UP\bin\Debug\X-UP.exe
+C:\Users\unzi2\source\repos\X-UP\bin\Debug\X-UP.pdb
+C:\Users\unzi2\source\repos\X-UP\obj\Debug\X-UP.csproj.AssemblyReference.cache
+C:\Users\unzi2\source\repos\X-UP\obj\Debug\X-UP.csproj.CoreCompileInputs.cache
+C:\Users\unzi2\source\repos\X-UP\obj\Debug\X-UP.exe
+C:\Users\unzi2\source\repos\X-UP\obj\Debug\X-UP.pdb
+C:\Users\unzi2\source\repos\X-UP\bin\Debug\SharpRGB.dll
+C:\Users\unzi2\source\repos\X-UP\bin\Debug\SharpRGB.pdb
+C:\Users\unzi2\source\repos\X-UP\obj\Debug\X-UP.csproj.Up2Date
